@@ -8,10 +8,5 @@
 
 import Foundation
 
-print("Hello, World!")
 
-let a:Int = 10;
 
-let b:Int = 20;
-
-print("sum=\(a+b)");
